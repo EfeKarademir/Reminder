@@ -34,3 +34,11 @@ Run `./build.sh` again after changing the code. Your reminders are kept.
 | `make_icon.swift` | Draws the app icon |
 
 Reminders are stored in `~/Library/Application Support/Remind Me/reminders.json`.
+
+## Disclaimer
+
+This is a personal hobby project, provided **as is** without any warranty. Use it at your own risk.
+
+- Notifications depend on macOS and your notification settings, so they can be delayed or missed. Don't rely on this app for anything critical, such as medication, legal deadlines or safety-related tasks.
+- Reminders are stored only on your Mac and are not backed up or synced. The author is not responsible for lost data or missed reminders.
+- This project is not affiliated with, endorsed by or connected to Apple Inc. "macOS" and "Reminders" are trademarks of Apple Inc.
